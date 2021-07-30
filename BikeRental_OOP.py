@@ -141,3 +141,5 @@ class customer:
 bike1 = BikeRental(10)
 bike1.rentBikeOnHourlyBasis(5)
 bike1.returnBike((2, 2, 5))
+
+# LEARNING TO USE GIT
